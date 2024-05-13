@@ -11,7 +11,7 @@ Whether you're looking for inspiration for your next trip or want to document yo
 ## Steps 
 
 - **1:** Clone the repository - git clone https://github.com/your-username/Django_Basics_Learning.git
-- **2:** Navigate to the project directory - cd new_project
+- **2:** Navigate to the project directory - cd Django_Basics_Learning/new_project
 - **3:** Run migrations - python manage.py migrate
 - **4:** Start the development server - python manage.py runserver
 - **5:** Open your web browser and navigate to http://127.0.0.1:8000/ to access Travello.
